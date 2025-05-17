@@ -1,4 +1,6 @@
-Spacecrafts & Robots
+Biorobots enjoyer
+
+Doing reserarch in ML and Robotics area
 
 ![Quadropedal Skateboarding](qudrobording.gif)
 
