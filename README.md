@@ -1,6 +1,6 @@
 Spacecrafts & Robots
 
-![Quadropedal Skateboarding](quadrobording.gif)
+![Quadropedal Skateboarding](qudrobording.gif)
 
 <!---
 dancher00/dancher00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
