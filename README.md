@@ -1,4 +1,4 @@
-Bionicle enjoyer
+Bionicle enjoyer 🦾🤖
 
 Doing reserarch in ML and Robotics area
 
