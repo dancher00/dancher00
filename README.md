@@ -1,6 +1,6 @@
 Bionicle enjoyer 🦾🤖
 
-Doing research in ML and Robotics area
+Doing research in ML and Robotics
 
 ![Quadropedal Skateboarding](qudrobording.gif)
 
