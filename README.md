@@ -1,7 +1,4 @@
-Bionicle enjoyer 🦾🤖
-
-Doing research in ML and Robotics
-
+Hey there! I am using GitHub
 ![Quadropedal Skateboarding](qudrobording.gif)
 
 <!---
