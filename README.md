@@ -1,5 +1,8 @@
-Hey there! I am using GitHub
+👨‍💻 MSc in Engineering
 
+Bionicle enjoyer 🦾🤖🦿
+
+Loking for PhD positions in ML for top research in cs:RO
 
 ![Quadropedal Skateboarding](qudrobording.gif)
 
