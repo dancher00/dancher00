@@ -1,6 +1,6 @@
-👨‍💻 MSc in Engineering. 🦾🤖🦿 Bionicle enjoyer. 
+👨‍💻 MSc in Robotics.
 
-Loking for PhD positions in ML for top research in cs:RO
+Loking for PhD positions in ML.
 
 ![Quadropedal Skateboarding](qudrobording.gif)
 
