@@ -1,6 +1,6 @@
-👨‍💻 MSc in Robotics.
+👨‍💻 MSc in Robotics
 
-Loking for PhD positions in ML.
+Loking for PhD positions in ML
 
 ![Quadropedal Skateboarding](qudrobording.gif)
 
