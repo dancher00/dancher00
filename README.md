@@ -1,4 +1,4 @@
-👨‍💻 MSc in Robotics
+👨‍💻 MSc in Robotics and Control
 
 Loking for PhD positions in ML
 
