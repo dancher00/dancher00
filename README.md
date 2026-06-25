@@ -1,6 +1,6 @@
 👨‍💻 MSc in Robotics and Control
 
-Loking for positions in ML
+Looking for PhD
 
 ![Quadropedal Skateboarding](qudrobording.gif)
 
