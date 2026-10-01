@@ -1,4 +1,3 @@
-Robotics & Control
 Research & Development
 
 <!---
