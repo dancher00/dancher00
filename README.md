@@ -1,8 +1,5 @@
-👨‍💻 MSc in Robotics and Control
-
-Looking for PhD
-
-![Quadropedal Skateboarding](qudrobording.gif)
+Robotics & Control
+Research & Development
 
 <!---
 dancher00/dancher00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
